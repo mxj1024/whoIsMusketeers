@@ -1,0 +1,2 @@
+To use this integration you need the corresponding assets by Polygon Blacksmith imported first. Then open this package.
+See manual for link to characters

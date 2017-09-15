@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afa2b5fd823f6c54886c4d95dceee3b2, type: 3}
+  m_Name: M16 data
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 133362, guid: e82f5a97b1120f64597d50640131c48b, type: 2}
+  displayName: M16
+  muzzleVelocity: 40
+  spread: 5
+  muzzleVelocityVariation: 1
+  bulletsFiredAtATime: 1
+  maxAmmo: 20
+  reloadTime: 1
+  fireCooldown: 0.1
+  damage: 1
+  fireMode: 2

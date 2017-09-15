@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afa2b5fd823f6c54886c4d95dceee3b2, type: 3}
+  m_Name: shotgun data
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 133362, guid: 11fdbf7895c22ed4daa2e74df95ef966, type: 2}
+  displayName: shotgun
+  muzzleVelocity: 30
+  spread: 10
+  muzzleVelocityVariation: 5
+  bulletsFiredAtATime: 5
+  maxAmmo: 6
+  reloadTime: 1
+  fireCooldown: 0.5
+  damage: 1
+  fireMode: 0

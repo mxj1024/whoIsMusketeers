@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/Additive scenes/Persistent.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/Additive scenes/basic
+      level.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/Additive scenes/2D logic.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/Additive scenes/3D logic.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Voxel terrain integration/voxel
+      test scene.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/RPG attribute demo scenes/CharacterCreationScene.unity
+  - enabled: 1
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/2D demo scene.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/3D demo scene.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/RPG attribute demo scenes/2D
+      demo scene RPG.unity
+  - enabled: 0
+    path: Assets/VikingCrew/2.5D Sidescrolling Shooter/Scenes/2D WWII demo scene.unity
